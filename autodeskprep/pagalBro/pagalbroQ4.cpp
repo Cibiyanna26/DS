@@ -1,3 +1,6 @@
+// given 2 arrays a & B, there are 'q' queries of two types, 
+//1- update the value of B array & 2-find the number of pairs of elements between a & b that can sum up to target.
+
 #include <bits/stdc++.h>
 using namespace std;
 
